@@ -1,0 +1,3 @@
+FROM alpine:latest
+COPY java12-init.tar /
+CMD cat /java12-init.tar

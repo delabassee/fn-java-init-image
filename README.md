@@ -1,1 +1,2 @@
-# fn-java-init-image
+## Java 11 and Java 12 (preview) init image for Fn
+
