@@ -7,7 +7,7 @@ public class HelloFunction {
 		var result =  
 			switch (input.toUpperCase())
 			{  
-				case "MONDAY", "TUESDAY" -> `Get back to work! The Life and Times of ¯\_(ツ)_/¯`;  
+				case "MONDAY", "TUESDAY" -> `Get back to work! ¯\_(ツ)_/¯`;  
 				case "WEDNESDAY" -> "Wait for the end of week.";
 				case "THURSDAY" -> "Almost there... wait till tomorrow...";
 				case "FRIDAY" -> ` \o/ Prepare plan for the weekend!`;
